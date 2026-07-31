@@ -28,3 +28,4 @@ Thumbs.db
 # preview thumbnails
 final_manuscript/pg-*.jpg
 manuscript_combined.md
+final_manuscript/*.jpg

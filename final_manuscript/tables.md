@@ -28,7 +28,7 @@ All numeric values are the real simulation outputs (see `results/` CSVs). Each t
 | Multilayer perceptron | 0.69 | 0.71 |
 | **Unified CNN (canonical test, 5-seed)** | — | **0.88 ± 0.06** |
 
-Unified CNN macro-F1 over 5 seeds {42, 7, 123, 2024, 2025}: mean 0.882, std 0.055, 95% CI ±0.048 (`results/tep_multiseed_classification.csv`). Rare-fault recall is seed-sensitive: F3 0.73 ± 0.41, F9 0.79 ± 0.16, F15 0.26 ± 0.24 — documented as a limitation (§5.7).
+Unified CNN macro-F1 over 5 seeds {42, 7, 123, 2024, 2025}: mean 0.882, std 0.055, 95% CI ±0.048 (`results/tep_multiseed_classification.csv`). Rare-fault recall is seed-sensitive: F3 0.73 ± 0.41, F9 0.79 ± 0.16, F15 0.26 ± 0.24 — documented as a limitation (§5.8).
 
 ---
 
