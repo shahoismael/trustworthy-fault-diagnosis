@@ -1,0 +1,2 @@
+model,closed_macro_f1,recall_fault3,recall_fault9,recall_fault15
+Unified-CNN(focal),0.8612,1.0,0.52,0.1845

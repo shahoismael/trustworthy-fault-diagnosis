@@ -1,0 +1,11 @@
+method,year,reported_metric,value,notes
+"PCA + T2/SPE (classical MSPC)",baseline,avg FDR,~0.70,linear statistical monitoring; weak on nonlinear/incipient faults
+"DBN (deep belief net)",2019,avg FDR,0.821,reported in Wu & Zhao 2018 comparison
+"DCNN (Wu & Zhao)",2018,avg FDR,0.882,20 faults; 2D time-variable input
+"Extended DBN (Wang et al.)",2019,avg FDR,0.9431,19-category; preserves raw-signal info
+"PTCN (Wu et al.)",2021,ACR,0.9392,all 20 faults; 0.9729 excluding faults 9 & 15
+"Temporal CNN + GAN (Lomov et al.)",2021,best on hard faults,-,improves incipient faults 3/9/15
+"PICUP-FDD (this work) — unified CNN",2026,macro-F1,0.88,"multiseed 0.88+/-0.03; canonical test set"
+"PICUP-FDD (this work) — detection",2026,FDR @ FAR=0.06,0.90,val-calibrated operating point; delay ~48 min
+"PICUP-FDD (this work) — open-set",2026,AUROC (unknown faults),0.82,"Mahalanobis; unknowns 16/17/18 held out — NOT reported by prior TEP work"
+NOTE,,,,"Metrics are not all directly comparable (FDR vs macro-F1 vs ACR) and prior work is closed-set only; table is for context. Our distinct contribution is calibrated FAR + open-set on the SAME model."

@@ -1,0 +1,6 @@
+,mean,std
+closed_macro_f1,0.8786,0.029
+recall_f3,0.6366,0.5044
+recall_f9,0.6422,0.0888
+recall_f15,0.2486,0.2049
+openset_maha_AUROC,0.8452,0.0059

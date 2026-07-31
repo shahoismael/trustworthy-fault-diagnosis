@@ -1,0 +1,2 @@
+dataset,n_classes,n,accuracy,macro_f1
+SteelPlates,7,1941,0.7907,0.7961

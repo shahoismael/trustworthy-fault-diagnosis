@@ -1,0 +1,338 @@
+TY  - JOUR
+AU  - Bangi, M. S. F.
+AU  - Kao, K.
+AU  - Kwon, J. S.-I.
+TI  - Physics-informed neural networks for hybrid modeling of lab-scale batch fermentation for beta-carotene production using Saccharomyces cerevisiae
+JO  - Chemical Engineering Research and Design
+PY  - 2022
+VL  - 179
+SP  - 415
+EP  - 423
+DO  - 10.1016/j.cherd.2022.01.041
+ER  -
+
+TY  - JOUR
+AU  - Devarakonda, V. S.
+AU  - Sun, W.
+AU  - Tang, X.
+AU  - Tian, Y.
+TI  - Recent advances in reinforcement learning for chemical process control
+JO  - Processes
+PY  - 2025
+VL  - 13
+IS  - 6
+SP  - 1791
+DO  - 10.3390/pr13061791
+ER  -
+
+TY  - JOUR
+AU  - Downs, J. J.
+AU  - Vogel, E. F.
+TI  - A plant-wide industrial process control problem
+JO  - Computers & Chemical Engineering
+PY  - 1993
+VL  - 17
+IS  - 3
+SP  - 245
+EP  - 255
+DO  - 10.1016/0098-1354(93)80018-I
+ER  -
+
+TY  - BOOK
+AU  - Fortuna, L.
+AU  - Graziani, S.
+AU  - Rizzo, A.
+AU  - Xibilia, M. G.
+TI  - Soft Sensors for Monitoring and Control of Industrial Processes
+PB  - Springer
+CY  - London
+PY  - 2007
+DO  - 10.1007/978-1-84628-480-9
+ER  -
+
+TY  - JOUR
+AU  - Goldrick, S.
+AU  - Stefan, A.
+AU  - Lovett, D.
+AU  - Montague, G.
+AU  - Lennox, B.
+TI  - The development of an industrial-scale fed-batch fermentation simulation
+JO  - Journal of Biotechnology
+PY  - 2015
+VL  - 193
+SP  - 70
+EP  - 82
+DO  - 10.1016/j.jbiotec.2014.10.029
+ER  -
+
+TY  - JOUR
+AU  - Hinder, F.
+AU  - Vaquet, V.
+AU  - Hammer, B.
+TI  - One or two things we know about concept drift: A survey on monitoring in evolving environments
+JO  - arXiv preprint
+PY  - 2023
+DO  - 10.48550/arXiv.2310.15826
+ER  -
+
+TY  - JOUR
+AU  - Ji, C.
+AU  - Sun, W.
+TI  - A review on data-driven process monitoring methods: Characterization and mining of industrial data
+JO  - Processes
+PY  - 2022
+VL  - 10
+IS  - 2
+SP  - 335
+DO  - 10.3390/pr10020335
+ER  -
+
+TY  - CPAPER
+AU  - Lee, K.
+AU  - Lee, K.
+AU  - Lee, H.
+AU  - Shin, J.
+TI  - A simple unified framework for detecting out-of-distribution samples and adversarial attacks
+T2  - Advances in Neural Information Processing Systems (NeurIPS)
+PY  - 2018
+VL  - 31
+ER  -
+
+TY  - CPAPER
+AU  - Lin, T.-Y.
+AU  - Goyal, P.
+AU  - Girshick, R.
+AU  - He, K.
+AU  - Dollar, P.
+TI  - Focal loss for dense object detection
+T2  - IEEE International Conference on Computer Vision (ICCV)
+PY  - 2017
+SP  - 2980
+EP  - 2988
+DO  - 10.1109/ICCV.2017.324
+ER  -
+
+TY  - CPAPER
+AU  - Liu, W.
+AU  - Wang, X.
+AU  - Owens, J. D.
+AU  - Li, Y.
+TI  - Energy-based out-of-distribution detection
+T2  - Advances in Neural Information Processing Systems (NeurIPS)
+PY  - 2020
+VL  - 33
+ER  -
+
+TY  - JOUR
+AU  - Lobo, J. L.
+AU  - Lana, I.
+AU  - Osaba, E.
+AU  - Del Ser, J.
+TI  - On the connection between concept drift and uncertainty in industrial artificial intelligence
+JO  - arXiv preprint
+PY  - 2023
+DO  - 10.48550/arXiv.2303.07940
+ER  -
+
+TY  - JOUR
+AU  - Lomov, I.
+AU  - Lyubimov, M.
+AU  - Makarov, I.
+AU  - Zhukov, L. E.
+TI  - Fault detection in Tennessee Eastman process with temporal deep learning models
+JO  - Journal of Industrial Information Integration
+PY  - 2021
+VL  - 23
+SP  - 100216
+DO  - 10.1016/j.jii.2021.100216
+ER  -
+
+TY  - JOUR
+AU  - Orru, P. F.
+AU  - Zoccheddu, A.
+AU  - Sassu, L.
+AU  - Mattia, C.
+AU  - Cozza, R.
+AU  - Arena, S.
+TI  - Machine learning approach using MLP and SVM algorithms for the fault prediction of a centrifugal pump in the oil and gas industry
+JO  - Sustainability
+PY  - 2020
+VL  - 12
+IS  - 11
+SP  - 4776
+DO  - 10.3390/su12114776
+ER  -
+
+TY  - JOUR
+AU  - Qin, S. J.
+TI  - Statistical process monitoring: Basics and beyond
+JO  - Journal of Chemometrics
+PY  - 2003
+VL  - 17
+IS  - 8-9
+SP  - 480
+EP  - 502
+DO  - 10.1002/cem.800
+ER  -
+
+TY  - JOUR
+AU  - Qu, Y.
+AU  - Zhou, B.
+AU  - Waaler, A.
+AU  - Cameron, D.
+TI  - Real-time event detection with random forests and temporal convolutional networks for a more sustainable petroleum industry
+JO  - arXiv preprint
+PY  - 2023
+DO  - 10.48550/arXiv.2310.08737
+ER  -
+
+TY  - DATA
+AU  - Rieth, C. A.
+AU  - Amsel, B. D.
+AU  - Tran, R.
+AU  - Cook, M. B.
+TI  - Additional Tennessee Eastman process simulation data for anomaly detection evaluation
+PB  - Harvard Dataverse
+PY  - 2017
+DO  - 10.7910/DVN/6C3JR1
+ER  -
+
+TY  - CPAPER
+AU  - Sensoy, M.
+AU  - Kaplan, L.
+AU  - Kandemir, M.
+TI  - Evidential deep learning to quantify classification uncertainty
+T2  - Advances in Neural Information Processing Systems (NeurIPS)
+PY  - 2018
+VL  - 31
+ER  -
+
+TY  - JOUR
+AU  - Sifakis, N.
+AU  - Sarantinoudis, N.
+AU  - Tsinarakis, G.
+AU  - Politis, C.
+AU  - Arampatzis, G.
+TI  - Soft sensing of LPG processes using deep learning
+JO  - Sensors
+PY  - 2023
+VL  - 23
+IS  - 18
+SP  - 7858
+DO  - 10.3390/s23187858
+ER  -
+
+TY  - CPAPER
+AU  - Simonyan, K.
+AU  - Vedaldi, A.
+AU  - Zisserman, A.
+TI  - Deep inside convolutional networks: Visualising image classification models and saliency maps
+T2  - International Conference on Learning Representations (ICLR) Workshop
+PY  - 2014
+DO  - 10.48550/arXiv.1312.6034
+ER  -
+
+TY  - JOUR
+AU  - Stief, A.
+AU  - Tan, R.
+AU  - Cao, Y.
+AU  - Ottewill, J. R.
+AU  - Thornhill, N. F.
+AU  - Baranowski, J.
+TI  - A heterogeneous benchmark dataset for data analytics: Multiphase flow facility case study
+JO  - Journal of Process Control
+PY  - 2019
+VL  - 79
+SP  - 41
+EP  - 55
+DO  - 10.1016/j.jprocont.2019.04.009
+ER  -
+
+TY  - JOUR
+AU  - Sun, Q.
+AU  - Ge, Z.
+TI  - A survey on deep learning for data-driven soft sensors
+JO  - IEEE Transactions on Industrial Informatics
+PY  - 2021
+VL  - 17
+IS  - 9
+SP  - 5853
+EP  - 5866
+DO  - 10.1109/TII.2021.3053128
+ER  -
+
+TY  - JOUR
+AU  - Wang, Y.
+AU  - Pan, Z.
+AU  - Yuan, X.
+AU  - Yang, C.
+AU  - Gui, W.
+TI  - A novel deep learning based fault diagnosis approach for chemical process with extended deep belief network
+JO  - ISA Transactions
+PY  - 2019
+VL  - 96
+SP  - 457
+EP  - 467
+DO  - 10.1016/j.isatra.2019.07.001
+ER  -
+
+TY  - JOUR
+AU  - Wang, H.
+AU  - Vaze, S.
+AU  - Han, K.
+TI  - Dissecting out-of-distribution detection and open-set recognition: A critical analysis of methods and benchmarks
+JO  - arXiv preprint
+PY  - 2024
+DO  - 10.48550/arXiv.2408.16757
+ER  -
+
+TY  - JOUR
+AU  - Wu, H.
+AU  - Zhao, J.
+TI  - Deep convolutional neural network model based chemical process fault diagnosis
+JO  - Computers & Chemical Engineering
+PY  - 2018
+VL  - 115
+SP  - 185
+EP  - 197
+DO  - 10.1016/j.compchemeng.2018.04.009
+ER  -
+
+TY  - JOUR
+AU  - Wu, D.
+AU  - Zhao, J.
+TI  - Process topology convolutional network model for chemical process fault diagnosis
+JO  - Process Safety and Environmental Protection
+PY  - 2021
+VL  - 150
+SP  - 93
+EP  - 109
+DO  - 10.1016/j.psep.2021.03.052
+ER  -
+
+TY  - JOUR
+AU  - Yang, J.
+AU  - Zhou, K.
+AU  - Li, Y.
+AU  - Liu, Z.
+TI  - Generalized out-of-distribution detection: A survey
+JO  - arXiv preprint
+PY  - 2022
+DO  - 10.48550/arXiv.2110.11334
+ER  -
+
+TY  - JOUR
+AU  - Yuan, X.
+AU  - Li, L.
+AU  - Shardt, Y. A. W.
+AU  - Wang, Y.
+AU  - Yang, C.
+TI  - Deep learning with spatiotemporal attention-based LSTM for industrial soft sensor model development
+JO  - IEEE Transactions on Industrial Electronics
+PY  - 2020
+VL  - 68
+IS  - 5
+SP  - 4404
+EP  - 4414
+DO  - 10.1109/TIE.2020.2984443
+ER  -

@@ -1,0 +1,2 @@
+openset_energy_AUROC,openset_entropy_AUROC,unknown_faults,device
+0.4907,0.625,"[16, 17, 18]",cpu

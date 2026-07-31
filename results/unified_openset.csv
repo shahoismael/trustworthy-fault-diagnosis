@@ -1,0 +1,2 @@
+MSP_AUROC,energy_AUROC,entropy_AUROC,mahalanobis_AUROC,unknown_faults,device
+0.6395,0.3713,0.6253,0.8198,"[16, 17, 18]",cpu

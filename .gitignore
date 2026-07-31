@@ -1,0 +1,30 @@
+# --- Datasets (too large for Git; keep only the per-dataset README) ---
+data/**/raw/
+data/**/processed/
+!data/**/README.md
+
+# --- Reference PDFs (large; keep notes/matrix, drop binaries) ---
+references/**/*.pdf
+references/**/images/
+references/**/*-images/
+
+# --- Python ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# --- Temp / scratch ---
+src/_smoke.py
+src/_mkproc.py
+results/_*.log
+results/_*.txt
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# preview thumbnails
+final_manuscript/pg-*.jpg
+manuscript_combined.md

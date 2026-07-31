@@ -1,0 +1,2 @@
+model,macro_f1,recall_fault3,recall_fault9,recall_fault15
+CNN+focal,0.896,0.3744,0.5913,0.4709

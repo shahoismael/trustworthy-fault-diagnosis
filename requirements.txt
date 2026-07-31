@@ -1,0 +1,15 @@
+# PICUP-FDD — Python dependencies (CPU works; GPU optional)
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+matplotlib>=3.7
+seaborn>=0.12
+pyarrow>=14.0          # fast parquet for processed/ cache
+tqdm>=4.66
+pyyaml>=6.0
+jupyter>=1.0
+# Deep learning (install the CUDA build separately if you have an NVIDIA GPU — see SETUP.md)
+torch>=2.2
+# Interpretability / uncertainty (used in later steps)
+shap>=0.44

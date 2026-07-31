@@ -1,0 +1,3 @@
+macro_f1,recall_f3,recall_f9,recall_f15,config
+0.8164,0.0,0.0,0.0,plain-CE
+0.8397,0.029,0.6452,0.2316,focal+weighted

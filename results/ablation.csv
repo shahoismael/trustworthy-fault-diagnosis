@@ -1,0 +1,4 @@
+config,macro_f1,recall_f3,recall_f9,recall_f15
+plain-CE,0.8743,1.0,0.449,0.1452
+focal,0.9178,0.9077,0.6529,0.4206
+focal+weight,0.8921,0.9684,0.5561,0.4277

@@ -1,0 +1,2 @@
+dataset,n_units,fault_rate,accuracy,macro_f1,AUROC
+IndPenSim (sample-level detection),47361,0.0261,0.9964,0.9629,0.9981

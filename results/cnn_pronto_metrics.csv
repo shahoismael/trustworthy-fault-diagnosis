@@ -1,0 +1,2 @@
+dataset,vars,n_train,n_test,accuracy,macro_f1,AUROC
+"PRONTO (real, same CNN)",17,1129,486,0.9774,0.9731,0.9902
