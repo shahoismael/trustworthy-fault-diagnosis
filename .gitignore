@@ -29,3 +29,7 @@ Thumbs.db
 final_manuscript/pg-*.jpg
 manuscript_combined.md
 final_manuscript/*.jpg
+
+submission-TIMC/
+final-submission/
+final_manuscript/

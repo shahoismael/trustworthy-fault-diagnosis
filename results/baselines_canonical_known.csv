@@ -1,0 +1,5 @@
+model,accuracy,macro_f1,weighted_f1
+PCA+NearestCentroid,0.4489,0.4338,0.4311
+LinearSVM,0.4949,0.4494,0.4471
+RandomForest,0.6645,0.6381,0.6347
+MLP,0.7017,0.6908,0.6876
